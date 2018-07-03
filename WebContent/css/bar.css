@@ -1,0 +1,40 @@
+
+*{
+    padding:0px;
+    margin:0px;
+    list-style: none;
+}
+
+body{
+	font-family : 微软雅黑,宋体, 'New York';
+}
+
+.li-group{
+    width:130px;
+    padding-top:9px;
+    background-color: #6E6568;
+    padding-bottom: 168px;
+}
+.li-group li{
+    width:120px;
+    padding-left:10px;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    color:#fff;
+}
+.li-group li:hover{
+    background-color: #999395;
+}
+.li-group li a{
+    font-size: 15px;
+    text-decoration:none;
+    color:#fff;
+}
+.li-group li a:hover{
+    color:#c81623;
+}
+.main{
+    position:absolute;
+    left:150px;
+    top:0px;
+}
